@@ -1,0 +1,576 @@
+Dr. Surender Singh Email: surender@civil.iitm.ac.in Phone: 044 -2257 -4313 (O)Overtaking Sight Distance
+Note: Some photos are taken from internet for illustrative and educational purposes only
+Overtaking Sight Distance19-08-20232Overtaking/Passing Sight Distance
+If all the vehicles travel at the same speed, there is no need for providing Overtaking 
+Sight distance (OSD)
+However, different vehicles aswell asdifferent drivers, travel with different speeds, and
+therefore, itisnecessary toprovide OSD .OSD isprovided sothat vehicles travelling at
+the design speed can safely overtake slow -moving vehicles without collision with the
+vehicle coming from theopposite end
+Definition :Itisthe minimum distance open tothe vision ofthe driver ofavehicle
+intending toovertake aslow -moving vehicle ahead with safety against the traffic ofthe
+opposite direction .
+The OSD is also known as Passing Sight Distance (AASHTO Green Book)
+It is the distance measured along the centre of the road which a driver with his eye level 
+at 1.2 m above the road surface can see the top of an object 1.2 m (basically eye level of 
+another passenger car) above the road surface. 
+Line of Sight
+Eye Level
+1.2 m1.2 m
+Overtaking Sight Distance19-08-20233Overtaking/Passing Sight Distance
+Conceptual Diagram
+Passing/overtaking vehicle
+Passed/overtaken vehicle
+Vehicle coming from opposite direction
+Overtaking Sight Distance
+The yellow car (overtaking car) wants to overtake the grey car (overtaken car) without 
+colliding with the white car coming from the opposite direction. 
+The sight distance needed for doing this maneuver safely iscalled overtaking sight
+distance (OSD) orPassing sight distance(PSD) .
+Can you outline thefactors affecting theOSD??19-08-20234Overtaking/Passing Sight Distance
+Factors affecting the overtaking sight distance
+Speed ofallthevehicles (overtaking, overtaken, and vehicle coming from opposite end)
+Distance between thevehicles ;this also depends onthespeed
+Skills and reaction time ofthedriver
+Rate ofacceleration ofovertaking vehicle
+Gradation oftheroad (higher requirement)
+Lets derive the expression for OSD19-08-2023 5Overtaking/Passing Sight Distance
+Deriving expression for OSD
+There are three methods for deriving the OSD/PSD
+AASHTO Method for PSD
+Glennon Model for PSD
+IRC Method for OSD
+Lets discuss these methods19-08-2023 6Overtaking Sight Distance
+Indian Roads Congress Method
+d3
+d1
+d2The OSD can besplit inthree distances :
+1=Distance travelled byovertaking vehicle during the reaction time ofdriver from
+themoment herealizes that hecan overtake thevehicle safely
+2=Distance travelled bythe overtaking vehicle during the actual overtaking (i.e.
+accelerating thespeed, going toopposite lane, crossing the overtaken vehicle and coming
+back thetheleftlane)
+3=Distance travelled bythevehicle coming from opposite direction19-08-20237Overtaking Sight Distance: IRC Method
+Lets derive the expression for OSD
+The overtaking vehicle isforced toreduce itsspeed from thedesign speed (m/sec) to
+(m/sec) ofthe slow vehicle and move behind it,maintaining aclear spacing of
+metres tillthere isanopportunity forsafe overtaking operation .This distance will not
+beincluded intheOSD since noovertaking isdone
+The driver finds anopportunity toovertake .During this perception -reaction time (),
+the driver travels some distance with the reduced speed only i.e.(m/sec) before
+giving any acceleration distance covered is1
+2 1 3A1 A2 A3 A4 B1 B2
+C1 C2
+Location: A1 to A2 
+Location: A2 to A3 
+1()=19-08-20238Overtaking Sight Distance: IRC Method
+Location: A2 to A3 continue 
+1()=
+Since theaim ofthedriver isonly tofind anopportunity toovertake, thereaction time 
+can beassumed tobe2sec(for SSD, was 2.5seconds) i.e.=2seconds
+Asper IRC, the average speed ofthe overtaken vehicle is4.5m/sec or16kmph lower
+than the design speed of the highway i.e.=4.5/sec(
+)
+16  where isthedesign speed ofthehighway19-08-20239Overtaking Sight Distance: IRC Method
+The vehicle starts accelerating, shifts tothe adjoining lane, overtakes the slow -moving
+vehicle, and shifts back tothe left lane while maintaining aclear spacing ofmeteres
+with theovertaken vehicle .This maneuver iscarried out inatime duration ofTseconds
+and thedistance travelled is2metres .Location: A3 to A4
+The overtaking vehicle has tokeep aclear spacing from theovertaken vehicle both before
+and after theovertaking maneuver .i.e.2
+Therefore, the distance 2can be written as +2Location: B1 to B2
+During the duration (i.e.overtaking maneuver), the slow -moving vehicle travels a
+distance maintaining aconstant speed ofm/sec
+Distance (inmetres )travelled byslow -moving vehicle =19-08-202310Overtaking Sight Distance: IRC Method
+2=+2
+2A1 A2 A3 A4 B1 B2
+Location: A3 to A4 and B1 to B2
+Asper IRC, the clear spacing between overtaking and overtaken vehicles depends on
+their speeds and can becomputed using theempirical formula 
+=0.7+6
+Here isinmetres and 6metres isthelength ofthevehicle19-08-202311Overtaking Sight Distance: IRC Method
+B2
+Location: C1 to C2
+During the duration (i.e.overtaking maneuver), the vehicle coming from the opposite
+direction travels adistance with thedesign speed ofm/sec
+Distance (inmetres )travelled byvehicle coming from opposite direction =
+A1 A2 A3 A4 B1
+ C1 C2 19-08-202312Overtaking Sight Distance: IRC Method
+A1 A2 A3 A4 B1
+ C1 C2  
+1 2 3
+1=  2= ++ = 2+ 3=  
+=4.5/16
+ = 2 seconds=0.7+6
+The only unknown is
+Letusderive anexpression for19-08-202313Overtaking Sight Distance: IRC Method
+Expression for
+Weknow that inseconds, the overtaking vehicle accelerates with anacceleration of
+/2and covers adistance of2metres
+From law ofmotion
+=+1
+22
+Where :
+=distance travelled ;inour case itis2metres
+=initial speed ofthevehicle before acceleration ;inour case itism/sec
+=time taken tocover Sdistance ;inour case itisseconds
+=acceleration rate ;inour case itis/2
+Therefore, inour case (replacing with our abbreviations)
+2=+1
+22
+Wealready know that
+2= 2+ 
+Equating both19-08-202314Overtaking Sight Distance: IRC Method
++1
+22=2+
+1
+22=2
+=4
+
+Where :
+=0.7+6
+depends onthespeed and can bepredicted from thebelow table
+Speed, kmph 25 30 40 50 65 80 100
+, /21.41 1.30 1.24 1.11 0.92 0.72 0.53Table :IRC recommendation for(maximum) acceleration rate values
+Note :shall beselected based onthe speed ofthe overtaken vehicle asfast moving
+vehicle has toreduce itsspeed and then accelerate from thereduced speed19-08-202315IRC Method Formula Sheet for OSD
+1= 
+2= 2+ =4.5/16
+ = 2 seconds
+=0.7+6
+=4
+Table: Design Speeds ( ) on Rural Highways
+Table: Acceleration value ( )
+3=  
+19-08-2023 16
+Some Important Points
+Effect ofGradient onOSDOvertaking Sight Distance: IRC Method
+Ascending Gradients
+The OSD requirement increases (than level roads) due toreduced acceleration ofthe
+overtaking vehicle and increased speed ofthe vehicle coming from the opposite
+direction (for him, itwill bedeceleration and hence higher speed)
+However, inmost cases, the overtaken vehicle isaheavily loaded truck which usually
+loses some speed onappreciable ascending gradients and many drivers are aware of
+the greater distances needed forovertaking ;both these conditions compensate and
+thus the same OSD provided atthe level roads could beprovided atascending mild
+gradients (upto ruling gradient forplain and rolling terrains)
+Ondescending gradients, itiseasier forthe overtaking vehicle toaccelerate and pass ;
+however, the overtaken vehicle may also accelerate and cover agreater distance .This
+compensates tosome extent .
+However, atsteeper gradients ,theOSD shall beincreased proportionally19-08-2023 17
+Overtaking ZonesOvertaking Sight Distance: IRC Method
+Itisalways desirable tohave OSD atevery point ofthe road .However, this is
+practically notpossible and may significantly increase thecost oftheproject
+Efforts should bemade toprovide overtaking zones atfrequent intervals for the
+vehicles travelling atthedesign speed
+Inthis case, sufficient information shall begiven tothe drivers about the overtaking
+zones byproviding sign boards
+Minimum length oftheOvertaking Zone =3
+Desirable length oftheOvertaking Zone =5Two sign posts shall beprovided atdifferent distances
+oSignpost 1(SP1):Itindicates that overtaking zone isahead and itmust be
+placed atleast OSD metres ahead oftheovertaking zone
+oSignpost 2(SP2):Itindicates that theovertaking zone isover and itmust be
+placed atleast OSD metres ahead oftheend oftheovertaking zone19-08-2023 18
+Overtaking ZonesOvertaking Sight Distance: IRC Method
+OSD forundivided roads =1+2+3
+OSD fordivided roads =NO need toprovide OSD fordivided roads asnovehicle is
+allowed tocome from the opposite direction ;however, need tomake sure that SSD is
+always available
+SP1
+SP2SP2
+SP1
+Overtaking Zone
+Length = 3/5 OSD19-08-2023 19
+SP1:Overtaking Zone AheadOvertaking Sight Distance: IRC Method
+SP2:Overtaking Zone END
+https://www.drive.com.au/caradvice/caradvice -college -part-two-safe-
+overtaking -not-for-pubication/
+India Mart19-08-2023 20
+Line Marking used toindicate overtakingOvertaking Sight Distance: IRC Method
+Broken lines :Overtaking ispermitted
+Solid/Continuous lines :Overtaking isNOT permitted
+Solid +Broken Lines :Overtaking ispermitted from broken tosolid and
+NOT vice versa
+Two solid lines :Passing this line isSTRICTLY NOT permitted (usually
+used where potential foraccidents ismore)
+Yellow and White lines :White lines areused inthecase where thetravel isin
+thesame direction ;while, yellow isused fortwo-way traffic .Also, yellow color
+isused toincrease thevisibility oftheroad inthenight time19-08-2023 21
+Line Marking used toindicate overtakingOvertaking Sight Distance: IRC Method
+Broken lines :Overtaking ispermitted
+https://www.cars24.com/blog/types -of-roads -lane -system -in-
+india/#:~:text=Broken%20White%20Line%3A&text=A%20broken%20white%20line%20gives,to%20perform%20such%20a%20maneuver.19-08-2023 22
+Overtaking Sight Distance: IRC Method
+Solid/Continuous lines :Overtaking isNOT permitted
+https://www.cars24.com/blog/types -of-roads -lane -system -in-
+india/#:~:text=Broken%20White%20Line%3A&text=A%20broken%20white%20line%20gives,to%20perform%20such%20a%20maneuver.19-08-2023 23
+Overtaking Sight Distance: IRC Method
+https://www.cars24.com/blog/types -of-roads -lane -system -in-
+india/#:~:text=Broken%20White%20Line%3A&text=A%20broken%20white%20line%20gives,to%20perform%20such%20a%20maneuver.Two solid lines :Passing this line isSTRICTLY NOT permitted (usually
+used where potential foraccidents ismore)
+19-08-2023 24
+Overtaking Sight Distance: IRC Method
+https://www.rac.co.uk/drive/advice/road -safety/uk -road -markings -what -they -mean -and-what -the-highway -code -says/Solid +Broken Lines :Overtaking ispermitted from broken tosolid and
+NOT vice versa
+19-08-202325
+Ona2way -2lane state highway, two vehicles are travelling ataspeed of70
+kmph and 40kmph, respectively .The fast-moving vehicle decided toovertake
+the slow vehicle and fordoing so,the available sight distance was 300 m.
+Determine whether this maneuver can bemade safely ifanother vehicle is
+coming from theopposite direction maintaining aspeed of80kmph .IRC Method: Class Activity
+Step 1:Choose theunknown parameters
+Speed ofovertaking vehicle i.e.=70kmph or70
+3.6=19.45/
+Speed ofovertaken vehicle i.e.=40kmph or40
+3.6=11.42/
+Speed ofvehicle coming from opposite direction i.e.=80kmph or80
+3.6=22.23/
+Assuming thereaction time ofthedriver as2seconds asper IRC i.e.=2s
+Selecting acceleration rate forovertaking vehicle from IRC Table =??
+Table: Acceleration value ( )
+shall be selected based on the reduced speed = 1.24 /2Speed, kmph 25 30 40 50 65 80 100
+, /21.41 1.30 1.24 1.11 0.92 0.72 0.5319-08-2023 26
+IRC Method: Class Activity
+Clear Spacing between overtaking and overtaken vehicle i.e.=?
+S=0.7vb+6= 0.711.42+6= 13.994 m 
+=4
+=413.994
+1.24=6.72Time taken forovertaking maneuver i.e.T=?
+Step 2:Calculate theOSD
+1= =11.42 2 = 22.84 m
+2= 2+=213.994 +11.426.72 =104 .73
+3= =22.236.72=149 .39
+Minimum OSD required =1+2+3=22.84+104 .73+149 .39=276 .96
+Minimum OSD required (276.96 m) < Available Distance (300 m) and hence 
+overtaking is possible19-08-2023 27
+Itisnot possible toovertake onHostel Avenue road ;therefore, itisproposed
+toprovide anovertaking zone .Decide the location and design the overtaking
+zone facility assuming themissing data suitably .IRC Method: Class Activity
+19-08-2023 28
+IRC Method: Class Activity
+Step 1:Choose theDesign parameters
+Speed ofovertaken vehicle i.e.=????
+Speed ofvehicle coming from opposite direction i.e.=8.34m/s (design speed only)
+Assuming thereaction time ofthedriver as2seconds asper IRC i.e.=2sTips :Roads inside thecampus areurban roads 
+Hostel Avenue Road can beconsidered acollector street and the design speed asper
+IRC forcollector streets is50kmph .However, due toNational Park, the maximum
+speed isrestricted to30kmph and around 98percentile traffic travels atthis speed .
+Speed ofovertaking vehicle i.e.=30kmph or30
+3.6=8.34/
+=4.5=8.344.5=3.84/
+Selecting acceleration rate ()for overtaking vehicle with reduced speed (we can
+assume thelowest speed orperform extrapolation)= 1.41/2
+Table: Acceleration value ( )
+Speed, kmph 25 30 40 50 65 80 100
+, /21.41 1.30 1.24 1.11 0.92 0.72 0.5319-08-202329
+IRC Method: Class Activity
+Clear Spacing between overtaking and overtaken vehicle i.e.=?
+S=0.7vb+6= 0.73.84+6= 8.688 m 
+=4
+=48.688
+1.41=4.97Time taken forovertaking maneuver i.e.T=?
+Step 2:Calculate theOSD
+1= =3.84 2 = 7.68 m
+2= 2+=28.688 +3.844.97 =36.46
+3= =8.345.17=43.118 
+Minimum OSD required =1+2+4=7.68+36.46+43.118 =87.2690
+Step 3:Calculate minimum &desirable overtaking zones
+Minimum length oftheOvertaking Zone =390=270 
+Desirable length oftheOvertaking Zone =590=450 19-08-202330
+IRC Method: Class Activity
+The road length between Gajendra Circle and TGH Bus
+stop is550 m.However, there are around 5
+crossings/access points (library, OAT , central lecture
+theatre, playfield avenue, and MSB road) .Therefore, it
+isnot possible toprovide theminimum overtaking zone
+of270 m.Alternatively, some ofthe access points
+maybe closed and anovertaking zone can beprovided .19-08-202331
+IRC Method: Class Activity
+Controlling the access from the stated 5locations, we
+have now 300 mlength available for providing
+overtaking zone which isslightly higher than the
+minimum overtaking zone of270 m.
+19-08-202332
+IRC Method: Class Activity
+Length = 270 m
+SP1  Overtaking Zone ahead
+SP2  Overtaking Zone ENDS
+SP1
+SP2SP2
+SP1Overtaking Zone90 m
+90 m90 m
+90 m
+19-08-2023 33Overtaking/Passing Sight Distance
+AASHTO Method for PSD
+1.The overtaken vehicle travels atauniform speed .
+2.The passing vehicle has reduced speed and trails the overtaken vehicle asitenters a
+passing orovertaking section .
+3.When thepassing section isreached, thepassing driver needs ashort period oftime to
+perceive theclear passing section and toreact tostart hisorher maneuver .
+4.Passing isaccomplished under what may betermed adelayed start and ahurried
+return inthe face ofopposing traffic .The passing vehicle accelerates during the
+maneuver, and itsaverage speed during the occupancy ofthe left lane is15km/h
+higher than that oftheovertaken vehicle .
+5.When the passing vehicle returns toitslane, there isasuitable clearance length
+between itand anoncoming vehicle intheother laneAssumptions made19-08-2023 34Overtaking/Passing Sight Distance: AASHTO
+12 3 41/3 2 2/3 2
+1=Distance traversed during perception and reaction time and during the initial
+acceleration tothepoint ofencroachment ontheleftlane .
+2=Distance travelled while thepassing vehicle occupies theleftlane
+3=Distance between the passing vehicle atthe end ofitsmaneuver and the
+opposing vehicle .
+4=distance travelled bythevehicle coming from theopposite directionOvertaking Sight Distance (OSD) =1+2+3+419-08-2023 35Overtaking/Passing Sight Distance
+Difference between IRC and AASHTO Method?? 
+19-08-202336Overtaking/Passing Sight Distance: AAHSTO Method
+The basic principle ofdesigning the overtaking zone orovertaking sight distance is
+almost thesame totheIRC method with thefollowing differences :
+i. Inthe IRC,the initial distance (1)travelled was during the perception -reaction time
+only i.e.2seconds and noacceleration was made bythe driver .However, asper
+AASHTO, there will besome acceleration made bythe driver tomove towards the
+centre line oftheroad ;however, this initial acceleration issignificantly lower than the
+maximum potential ofthevehicle .Due totheinclusion ofinitial acceleration, thetotal
+duration isbetween 3.7-4.3seconds ,depending onthespeed .19-08-202337Overtaking/Passing Sight Distance: AAHSTO Method
+1=0.278 +
+2
+Where
+oinitial maneuver time (reaction time +during initial acceleration toreach the
+centre line oftheroad) .This value isusually 3.7-4.3seconds
+oaverage speed oftheovertaking vehicle inkm/ hr
+odifference inspeed between theovertaking and theovertaken vehicle in
+km/hr .This value isusually 15km/ hr
+oaverage acceleration inkm/ hr.s.This value isusually between 2.25-2.37
+km/ hr/s
+ Ifyou recall, theIRC formula for1 1= 0.278 
+ AASHTO formula isalso similar except thefollowing :
+o initial acceleration
+2isadded tothespeed
+o Speed ofthe Overtaken vehicle isconsidered inKmph and instead of
+considering theovertaken vehicle speed, they arementioning ()which
+isnothing but thespeed oftheovertaken vehicle19-08-202338Overtaking/Passing Sight Distance: AAHSTO Method
+iii. Asper AASHTO, 2isthe distance travelled bythe overtaking vehicle inthe opposite
+lane which isgiven by
+2=0.278 2Where
+o2time spent bytheovertaking vehicle intheopposite lane (9.3-10.4secs )
+oaverage speed oftheovertaking vehicle inkm/ hr
+InIRC, 2was calculated byadding the distance travelled bythe Overtaken vehicle and
+the spacing maintained bythe Overtaking vehicle, before and after the overtaking
+maneuver (i.e.+2)19-08-202339Overtaking/Passing Sight Distance: AAHSTO Method
+iii. InIRC, the overtaking distance had three components .Whereas inAASHTO, the
+passing sight distance issplit into 4distances i.e.1+2+3+4.The extra
+distance (3)isthe clear distance between the overtaking vehicle atthe end ofits
+maneuver and thevehicle coming from theopposite direction .
+The 3distance isgenerally between 30-75mdepending onthespeed ofthevehicles .
+iv. InIRC, 3which is4inAASHTO, isthedistance traveled bythevehicle coming from
+the opposite direction during the overtaking maneuver duration i.e.Tseconds .
+However, asper AASHTO, considering the total duration leads toalarge sight
+distance and would not becost -effective ;especially, when aclear distance (3)of30-
+75misalready being considered .19-08-202340Overtaking/Passing Sight Distance: AAHSTO Method
+InAASHTO, itisconsidered that theoriginal overtaking maneuver i.e.2isdone intwo
+phases :
+oIn the first1
+3 duration,  the overtaking  vehicle  can come  back  to its lane  after  
+seeing  the vehicle  in the opposite  lane
+oIn the remaining  duration  i.e.2
+3 duration,  the actual  overtaking  is made  
+4=  2
+3 2Therefore, the distance (4)travelled bythe vehicle coming from the opposite side
+shall beequal tothe2
+3 219-08-202341AAHSTO Method: Formula Sheet
+1=0.278 +
+2
+Where
+oinitial maneuver time (reaction time +during initial acceleration toreach the
+centre line oftheroad) .This value isusually 3.7-4.3seconds
+oaverage speed oftheovertaking vehicle inkm/ hr
+odifference inspeed between theovertaking and theovertaken vehicle in
+km/hr .This value isusually 15km/ hr
+oaverage acceleration inkm/ hr.s.This value isusually between 2.25-2.37
+km/ hr/s
+o2time spent bytheovertaking vehicle intheopposite lane (9.3-10.4secs)
+oaverage speed oftheovertaking vehicle inkm/ hrPassing Sight Distance =1+2+3+4
+2=0.278 2
+3=3075
+4=  2
+3 219-08-202342AAHSTO Method
+Table :Typical Values used inAASHTO forOSD determination19-08-202343AAHSTO Method
+Table :Typical Values forDesign ofTwo -Lane Highways
+19-08-202344Limitations of AASHTO and IRC Methods 
+Itisassumed that the overtaking vehicle once decided toovertake, will Definitely
+complete theovertaking maneuver .This means the driver has noopportunity toabort
+thepass .
+Table: OSD values for two -lane highways
+Speed (kmph) OSD Requirement in metres
+AASHTO IRC
+40 270 165
+50 345 235
+60 410 300
+80 540 470
+100 670 640
+Due tothe longer sight distance requirement ,the cost ofthe project increases
+dramatically and therefore, many researchers have developed models which outline
+smaller SAFE passing sight distanceThis assumption isbelieved toresult inthe exaggeration ofthe overtaking sight
+distance requirements .19-08-202345Glennon Model
+There are numerous models which consider that the passing sight distance shall give
+the driver both options viz.tocomplete the overtaking maneuver aswell astoabort
+themaneuver .
+Glennon model isbased onthe hypothesis that acritical position exists during the
+passing maneuver where the passing sight distance requirement toeither complete or
+abort thepass isequal .Atthis point, thedecision tocomplete thepass will provide the
+same head -onclearance toanopposing vehicle aswill the decision toabort the pass .
+This distance can beconsidered astheoptimum passing sight distance .Glennon model isthemost famous among alltheavailable models
+Considering the critical position concept could reduce the passing sight distance
+requirement and subsequently thecost oftheproject
+Lets understand this concept inmore detail19-08-202346Glennon Model
+Phase I:Start ofPass i.e.when thedriver decides toovertake
+OSD
+
+When the overtaking vehicle maintaining acritical distance offrom the overtaken
+vehicle decides toovertake but sees the opposite vehicle, hewill not atallperform the
+overtaking maneuver .Inthis case, the OSD/PSD requirement forAborting will bethe
+minimum but thePSD required forovertaking will themaximum
+Phase II:Early Part ofPass i.e.when thedriver isonthecentre line
+OSD
+
+When thedriver isonthecentre line oftheroad and sees theopposite vehicle, thetime
+required toABORT themanuever will behigher than Phase I(because thedriver has to
+return back behind the impeding vehicle) and subsequently, the distance required .In
+this case, theOSD/PSD requirement forAborting will behigher than inPhase I.19-08-202347Glennon Model
+Phase III:Middle ofPass i.e.when thedriver iscompletely ontheopposite lane
+OSD
+
+When the driver iscompletely onthe opposite lane and hecan perform both the
+maneuvers safely i.e.ABORT aswell asCOMPLETE ;this distance iscalled the Critical
+Distance .
+Phase IV:Later Part ofPass i.e.when thedriver isahead oftheimpeding vehicle
+OSD
+
+Inthis case, the OSD required toabort will the maximum, but the OSD required to
+COMPLETE will betheminimum .Distance required toabort isequal todistance required toabort19-08-202348Glennon Model
+Out ofallthese conditions, thecritical point/distance wherein thedistance required to
+abort isequal tothe distance required tocomplete the overtaking maneuver, will give
+thedriver both theoptions and thus, could beconsidered fordesigning theOSD orPSD
+Lets understand theGlennon model forestimating thePSDPhase Overtaking driver position PSD for Aborting PSD for completing 
+overtaking
+I Behind impeding vehicle minimum Maximum
+II Road Centre line Higher than Phase I Lower than Phase I
+III Opposite lane behind impeding 
+vehicleOptimum Optimum
+IV Opposite lane ahead of 
+impeding vehicleMaximum MinimumTable :Comparison ofdifferent phases19-08-202349Glennon Model
+Assumption made byGlennon
+1)The overtaking and the vehicle coming from the opposite direction
+(oncoming/opposing vehicle) aretravelling with thesame speed i.e.thedesign
+speed ofthehighway ()
+2)The overtaken vehicle (passed/impeding vehicle) travels atauniform speed
+which is19kmph lower than that oftheovertaking vehicle i.e.=19kmph
+3)The length ofthepassing ()and thepassed/impeding ()vehicles is5.8m.
+4)The passing drivers perception -reaction time indeciding toabort passing a
+vehicle is1s.
+5)Ifapassing maneuver isaborted, the passing vehicle will use adeceleration
+rate ()of3.4/2,thesame deceleration rate used instopping sight distance
+design criteria
+6)For acompleted oraborted pass, the space headway between the passing and
+passed vehicles is1s.
+7)The minimum clearance between the passing and opposing vehicles atthe
+point atwhich thepassing vehicle returns toitsnormal lane is1s
+Based on these assumptions, Glennon gave two time -space diagrams ;one for
+completed maneuver and theother foraborted maneuver19-08-202350Glennon Model
+Glennon Time -Space Diagrams
+For Completed Pass For Aborted Pass
+Lets understand these space -time diagrams separately19-08-202351Glennon Model
+Glennon Time -Space Diagrams forCompleted Pass
+The passing vehicle maintaining agap with  
+the impeding  vehicle,  travels  with  the design  
+speed  () and safely  completes  the overtaking  
+maneuver  in 1 seconds . 
+Therefore,  distance  travelled  by passing  vehicle   
+= 1
+The distance  travelled  by impeding  vehicle  in the 
+same  time  = ()1
+The clear  spacing  with  the impeding  vehicle  post  
+completing  the maneuver  is . 
+The length  of the passing  vehicle  is 
+In the same  duration  , the opposing  vehicles  
+which  is travelling  at the design  speed  () 
+reaches ; the clear  spacing  between  the passing  
+and the opposing  vehicle  is . 
+Therefore,  the distance  travelled  by the opposing  
+vehicle  is the same  as that  of the passing  vehicle  
+i.e. 1
+We are not including   because  it is the critical  
+point  at which  the driver  either  abort  or 
+complete  the maneuver  safely19-08-202352Glennon Model
+Glennon Time -Space Diagrams forAborted Pass
+The passing vehicle maintaining agap
+with  the impeding  vehicle,  travels  with  
+the design  speed  (). After  1 second  of 
+reaching  the critical  point,  hedecides to
+abort themaneuver .
+For doing this, hedeaccelerated ()the
+speed and returned back to his lane
+maintaining agap with the impeding
+vehicle
+Therefore,  distance  travelled  by passing  
+vehicle  in 1 second   = 1=
+Distance  travelled  after  1 second  in the 
+deacceleration  mode   = 22
+2
+The distance  travelled  by impeding  vehicle  
+in 1 second  =1=
+The distance  travelled  by impeding  vehicle  
+after  1 second  =2
+The length  of the impeding  vehicle  is 
+Distance  travelled  by the opposite  vehicle  
+in 2+1 seconds   =(2+1)
+19-08-202353Glennon Model
++1=++()1 Derivation forCompleted Pass
+Critical Position fortheCompleted Pass
+=+1 +1=++11 
++1=++11 
+19-08-202354Glennon Model
+Derivation forAborted Pass
+Critical Position forAborted Pass
+++222
+2= +2
+++222
+2= +22
+=2+22
+2
+19-08-202355Glennon Model
+=+1 
+Since thecritical points arethesame forboth themaneuvers
+=
++1=2+22
+2=2+22
+2
+1=2+22
+2
+1=2+22
+2
+1=1+122
+2+2++
+Solving this equation for119-08-202356Glennon Model
+Equating Critical Sight Distances ()
+1+1+=+222
+2++(2+1)
+1=1+122
+4Solving this equation for119-08-202357Glennon Model
+Solving thecritical Sight Distance2=4(2++)
+(2)Solving time relationships simultaneously
+1=1+4(2++)
+(2)2++
+2
+=16+(2+32)
+2(2+32)
+2(2)=2 2+
+19-08-202358Glennon Model
+PSD/OSD Requirement based ontheGlennon Model
+Speed 
+(kmph)OSD Requirement in metres
+AASHTO IRC Glennon 
+Model
+40 270 165 140
+50 345 235 160
+60 410 300 180
+80 540 470 245
+100 670 640 320

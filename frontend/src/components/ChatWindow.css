@@ -1,0 +1,91 @@
+/* Chat container styling */
+.chat-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* background-color: #07646b; Dark blue background */
+  color: #fff; /* Set all text to white */
+  background-image: url('./purple-and-black-aesthetic-led-kaleidoscope-bzh7fedalo57vr1p.jpg'); /* Path to your image */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Message list styling - scrollable */
+.message-list {
+  max-height: 400px; /* Adjust height to your preference */
+  overflow-y: auto; /* Enable vertical scrolling */
+  padding: 10px;
+  border-radius: 10px;
+  color: #fff; /* Set message text to white */
+  scrollbar-color: #6b08c7 #210041; /* Scrollbar color for better visibility */
+  scrollbar-width: thin;
+  background-color: black;
+  
+}
+.chat-box{
+  background-image: url('./chat\ bg.jpg'); /* Path to your image */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+/* Individual messages */
+.message-item {
+  margin-bottom: 10px;
+}
+
+/* User message styling */
+.user-message .ant-list-item-meta {
+  text-align: right;
+  border-radius: 15px;
+  padding: 8px;
+  max-width: 60%;
+  margin-left: auto;
+}
+
+/* Bot message styling */
+.bot-message .ant-list-item-meta {
+  text-align: left;
+  border-radius: 15px;
+  padding: 8px;
+  max-width: 60%;
+}
+
+/* Time for messages */
+.message-time {
+  font-size: 0.75rem;
+  color: #fff; /* White text */
+}
+
+
+.ant-input {
+  color: #fff; /* White text in input field */
+  background-color: #001f3f; /* Dark background for input */
+  border: none;
+}
+
+/* Primary button styling */
+.ant-btn-primary {
+  background-color: #1890ff;
+  border-color: #1890ff;
+  color: #fff; /* Set button text to white */
+}
+
+/* Placeholder text in the input area */
+.ant-input::placeholder {
+  color: #fff; /* Set placeholder text to white */
+}
+
+/* Scrollbar styling */
+.message-list::-webkit-scrollbar {
+  width: 8px;
+}
+
+
+
+.message-list::-webkit-scrollbar-track {
+  background-color: #001f3f; /* Scrollbar track */
+}

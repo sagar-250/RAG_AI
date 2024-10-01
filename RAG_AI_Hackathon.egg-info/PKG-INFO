@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: RAG_AI_Hackathon
+Version: 0.0.1
+Author: Sagar
+Author-email: sagarbag25@gmail.com
+Requires-Dist: langchain_groq
